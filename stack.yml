@@ -1,0 +1,28 @@
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:8080
+functions:
+  roll:
+    lang: python3
+    handler: ./roll
+    image: roll:latest
+    labels:
+      com.openfaas.scale.zero: false
+  cat-api:
+    lang: python3
+    handler: ./cat-api
+    image: cat-api:latest
+    labels:
+      com.openfaas.scale.zero: false
+  dog-api:
+    lang: python3
+    handler: ./dog-api
+    image: dog-api:latest
+    labels:
+      com.openfaas.scale.zero: false
+  joke-api:
+    lang: python3
+    handler: ./joke-api
+    image: joke-api:latest
+    labels:
+      com.openfaas.scale.zero: false
