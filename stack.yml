@@ -26,3 +26,4 @@ functions:
     image: joke-api:latest
     labels:
       com.openfaas.scale.zero: false
+
