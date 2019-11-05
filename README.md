@@ -13,7 +13,3 @@ Got you covered. https://waterdrips.o6s.io/joke-api
 
 ## Want a way to roll a dice?
 Got that too... https://waterdrips.o6s/io/roll
-
-
-
-
