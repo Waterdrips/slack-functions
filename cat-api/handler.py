@@ -2,7 +2,7 @@ import json
 import urllib.parse
 import requests
 
-CAT_API = "https://api.thecatapi.com/images/search?mime_types=gif"
+CAT_API = "https://api.thecatapi.com/v1/images/search?mime_types=gif"
 
 
 def handle(req):
