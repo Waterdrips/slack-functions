@@ -12,4 +12,4 @@ Prefer dogs to cats? That's ok too. There's an endpoint for that: https://waterd
 Got you covered. https://waterdrips.o6s.io/joke-api
 
 ## Want a way to roll a dice?
-Got that too... https://waterdrips.o6s/io/roll
+Got that too... https://waterdrips.o6s.io/roll
